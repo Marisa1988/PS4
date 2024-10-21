@@ -1,5 +1,3 @@
-pip install requests
-
 import requests
 
 # Define the API endpoint for products
