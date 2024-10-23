@@ -24,4 +24,3 @@ for code in product_codes:
         print(f'Product: {product_name}')
         print(f'Allergens: {", ".join(allergens) if allergens else "None"}')
         print('-' * 40)
-
