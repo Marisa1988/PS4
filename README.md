@@ -15,5 +15,6 @@ Additionally, this script will provide information about the Nutri-Score and NOV
 4. Fruits
 5. Cereals and their products
 
-You will have the option to choose a number from 1 to 5 to display the total Nutri-Score and NOVA ratings for each category listed above. 
+You will have the option to choose a number from 1 to 5 to display the total Nutri-Score and NOVA ratings for each category listed above.
+Please remember that this is not an average of the ratings, but rather a distribution of the products within each category.
 If you want to finish, you can simply write "Done".
